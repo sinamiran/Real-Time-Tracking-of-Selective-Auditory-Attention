@@ -1,0 +1,2 @@
+# Real-Time-Tracking-of-Selective-Auditory-Attention
+This repository includes a MATLAB demo for the paper "Real-Time Tracking of Selective Auditory Attention from M/EEG: A Bayesian Filtering Approach". The code reproduces the results in case 2 of Figure 4 in the paper as an example and includes the implementation of Algorithms 1 and 2 in the paper. In order to run the demo, just run "Main.m" located in the "demo.zip" file.
